@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Pixel",
+    name: "PixelKit",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v15),
