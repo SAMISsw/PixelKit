@@ -49,7 +49,7 @@ let package = Package(
         .testTarget(
             name: "PixelKit",
             dependencies: [
-                "Pixel",
+                "PixelKit",
             ],
             path: "Tests/MyLibraryName/",
             exclude: [
